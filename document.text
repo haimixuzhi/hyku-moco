@@ -1,0 +1,6 @@
+java -jar moco-runner-<version>-standalone.jar shutdown -s 9527
+java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json -s 9527
+java -jar moco-runner-0.10.2-standalone.jar start -p 12306 -g setting.json -s 9527
+
+https://github.com/dreamhead/moco/blob/master/moco-doc/apis.md
+http://www.coderli.com/mock-server-moco-guide/

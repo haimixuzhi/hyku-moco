@@ -1,0 +1,55 @@
+[{
+	"request": {
+		"uri": {
+			"match": "/\\w*/top"
+		},
+		"method": "GET"
+	},
+	"response": {
+		"json": [{
+			"nick": "Alice",
+			"username": "userid001",
+			"profile_image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3011550078,4051180033&fm=111&gp=0.jpg",
+			"rank": 1,
+			"score": {
+				"total": 4500
+			}
+		},
+		{
+			"nick": "Tom",
+			"username": "userid002",
+			"profile_image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1720620006,1140887170&fm=116&gp=0.jpg",
+			"rank": 2,
+			"score": {
+				"total": 3300
+			}
+		},
+		{
+			"nick": "Jim",
+			"username": "userid003",
+			"profile_image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3047710011,1274531363&fm=116&gp=0.jpg",
+			"rank": 3,
+			"score": {
+				"total": 3000
+			}
+		},
+		{
+			"nick": "Jack",
+			"username": "userid004",
+			"profile_image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2332039348,1866544533&fm=116&gp=0.jpg",
+			"rank": 4,
+			"score": {
+				"total": 2800
+			}
+		},
+		{
+			"nick": "Rose",
+			"username": "userid005",
+			"profile_image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1819655436,1406018065&fm=116&gp=0.jpg",
+			"rank": 5,
+			"score": {
+				"total": 2500
+			}
+		}]
+	}
+}]

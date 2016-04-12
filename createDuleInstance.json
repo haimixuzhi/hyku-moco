@@ -1,0 +1,67 @@
+[{
+	"request": {
+		"uri": "/instances",
+		"method": "POST"
+	},
+	"response": {
+		"json": {
+			"id": "instance55",
+			"template": {
+				"id": "template001",
+				"description": "FC bacelona-Real Madrid",
+				"bg_pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6-2vvL2sK7S9O9JnTMm7ICc_cOp1Z035h4L1RGAH7vPhY_j3yWLl29c",
+				"topic": {
+					"id": "topic001"
+				},
+				"program": {
+					"id": "program001",
+					"channel_icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
+				},
+				"cost": {
+					"creator_min_cost": 200,
+					"competitor_min_cost": 100,
+					"competitor_max_cost": 1000
+				},
+				"deadline": {
+					"accept": 1460721600000
+				},
+				"answers": [{
+					"id": "answers001",
+					"name": "answers001 name",
+					"description": "bacelona",
+					"icon": "http://img.sj33.cn/uploads/allimg/201402/7-140203003000D1.png",
+					"is_correct": false
+				},
+				{
+					"id": "answers002",
+					"name": "answers002 name",
+					"description": "Real Madrid",
+					"icon": "http://imgsrc.baidu.com/forum/w%3D580/sign=b621e260f603918fd7d13dc2613c264b/87c7ccbf6c81800accde3c8eb03533fa838b4792.jpg",
+					"is_correct": false
+				}]
+			},
+			"text": "Base55 beat Roma",
+			"fg_pic": "http://img.taopic.com/uploads/allimg/140328/235031-14032Q2521449.jpg",
+			"creator": {
+				"username": "ZhangSan",
+				"cost": 200,
+				"answer": {
+					"id": "answer001"
+				}
+			},
+			"competitor": {
+				"username": null,
+				"cost": 500,
+				"answer": {
+					"id": "answer002"
+				}
+			},
+			"created_time": 1460349000000,
+			"accepted_time": null,
+			"correct_answer": {
+				"id": "0"
+			},
+			"status": 0
+		}
+	}
+}]

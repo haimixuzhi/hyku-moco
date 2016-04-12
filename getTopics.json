@@ -1,0 +1,261 @@
+[
+    {
+        "request": {
+            "uri": "/topics",
+            "method": "GET"
+        },
+        "response": {
+            "json": [
+                {
+                    "id": "topic1",
+                    "episode": {
+                        "id": "episode1"
+                    },
+                    "description": "Football dule",
+                    "bg_pic": "http://img5.iqilu.com/c/u/2015/0331/1427808435891.jpg",
+                    "fg_pic": "http://file02.16sucai.com/d/file/2014/0614/0a601db1c65760a04b5a086d6433f59a.jpg",
+                    "templates": [
+                        {
+                            "id": "template001",
+                            "description": "FC bacelona-Real Madrid",
+                            "bg_pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6-2vvL2sK7S9O9JnTMm7ICc_cOp1Z035h4L1RGAH7vPhY_j3yWLl29c",
+                            "topic": {
+                                "id": "topic001"
+                            },
+                            "program": {
+                                "id": "program001",
+                                "channel_icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
+                            },
+                            "cost": {
+                                "creator_min_cost": 200,
+                                "competitor_min_cost": 100,
+                                "competitor_max_cost": 1000
+                            },
+                            "deadline": {
+                                "accept": 1460721600000
+                            },
+                            "answers": [
+                                {
+                                    "id": "answers001",
+                                    "name": "answers001 name",
+                                    "description": "bacelona",
+                                    "icon": "http://img.sj33.cn/uploads/allimg/201402/7-140203003000D1.png",
+                                    "is_correct": false
+                                },
+                                {
+                                    "id": "answers002",
+                                    "name": "answers002 name",
+                                    "description": "Real Madrid",
+                                    "icon": "http://imgsrc.baidu.com/forum/w%3D580/sign=b621e260f603918fd7d13dc2613c264b/87c7ccbf6c81800accde3c8eb03533fa838b4792.jpg",
+                                    "is_correct": false
+                                }
+                            ]
+                        },
+                        {
+                            "id": "template002",
+                            "description": "FC CN-USA",
+                            "bg_pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6-2vvL2sK7S9O9JnTMm7ICc_cOp1Z035h4L1RGAH7vPhY_j3yWLl29c",
+                            "topic": {
+                                "id": "topic001"
+                            },
+                            "program": {
+                                "id": "program001",
+                                "channel_icon": "http://c.hiphotos.baidu.com/baike/w%3D268/sign=0e0258fb5ddf8db1bc2e7b623122dddb/c83d70cf3bc79f3daabebd53b9a1cd11728b2971.jpg"
+                            },
+                            "cost": {
+                                "creator_min_cost": 200,
+                                "competitor_min_cost": 100,
+                                "competitor_max_cost": 1000
+                            },
+                            "deadline": {
+                                "accept": 1460752200000
+                            },
+                            "answers": [
+                                {
+                                    "id": "answers003",
+                                    "name": "answers003 name",
+                                    "description": "china win",
+                                    "icon": "http://img2.imgtn.bdimg.com/it/u=2166183927,1202308577&fm=21&gp=0.jpg",
+                                    "is_correct": false
+                                },
+                                {
+                                    "id": "answers004",
+                                    "name": "answers004 name",
+                                    "description": "America win",
+                                    "icon": "http://img0.imgtn.bdimg.com/it/u=920414478,1960057218&fm=21&gp=0.jpg",
+                                    "is_correct": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "topic2",
+                    "episode": {
+                        "id": "episode2"
+                    },
+                    "description": "Basketball dule",
+                    "bg_pic": "http://i2.sinaimg.cn/ty/k/p/2010-06-09/U4933P6T12D5026003F44DT20100609104848.jpg",
+                    "fg_pic": "http://img3.redocn.com/20120627/Redocn_2012062716294016.jpg",
+                    "templates": [
+                        {
+                            "id": "template002",
+                            "description": "FC CN-USA",
+                            "bg_pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6-2vvL2sK7S9O9JnTMm7ICc_cOp1Z035h4L1RGAH7vPhY_j3yWLl29c",
+                            "topic": {
+                                "id": "topic002"
+                            },
+                            "program": {
+                                "id": "program001",
+                                "channel_icon": "http://c.hiphotos.baidu.com/baike/w%3D268/sign=0e0258fb5ddf8db1bc2e7b623122dddb/c83d70cf3bc79f3daabebd53b9a1cd11728b2971.jpg"
+                            },
+                            "cost": {
+                                "creator_min_cost": 200,
+                                "competitor_min_cost": 100,
+                                "competitor_max_cost": 1000
+                            },
+                            "deadline": {
+                                "accept": 1460752200000
+                            },
+                            "answers": [
+                                {
+                                    "id": "answers003",
+                                    "name": "answers003 name",
+                                    "description": "china win",
+                                    "icon": "http://img2.imgtn.bdimg.com/it/u=2166183927,1202308577&fm=21&gp=0.jpg",
+                                    "is_correct": false
+                                },
+                                {
+                                    "id": "answers004",
+                                    "name": "answers004 name",
+                                    "description": "America win",
+                                    "icon": "http://img0.imgtn.bdimg.com/it/u=920414478,1960057218&fm=21&gp=0.jpg",
+                                    "is_correct": false
+                                }
+                            ]
+                        },
+                        {
+                            "id": "template003",
+                            "description": "FC Doraemon-Shrek",
+                            "bg_pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6-2vvL2sK7S9O9JnTMm7ICc_cOp1Z035h4L1RGAH7vPhY_j3yWLl29c",
+                            "topic": {
+                                "id": "topic002"
+                            },
+                            "program": {
+                                "id": "program001",
+                                "channel_icon": "http://a.hiphotos.baidu.com/baike/w%3D268/sign=4d931b964510b912bfc1f1f8fbfcfcb5/d01373f082025aaf248d22e6f9edab64024f78f0f7362263.jpg"
+                            },
+                            "cost": {
+                                "creator_min_cost": 200,
+                                "competitor_min_cost": 100,
+                                "competitor_max_cost": 1000
+                            },
+                            "deadline": {
+                                "accept": 1460410200000
+                            },
+                            "answers": [
+                                {
+                                    "id": "answers005",
+                                    "name": "answers005 name",
+                                    "description": "which one save the world?",
+                                    "icon": "http://img2.imgtn.bdimg.com/it/u=2010627779,4174708471&fm=206&gp=0.jpg",
+                                    "is_correct": false
+                                },
+                                {
+                                    "id": "answers006",
+                                    "name": "answers006 name",
+                                    "description": "which one save the world?",
+                                    "icon": "http://p6.qhimg.com/dmsmty/350_200_/t01c5e729936f2f3f05.jpg",
+                                    "is_correct": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "topic3",
+                    "episode": {
+                        "id": "episode3"
+                    },
+                    "description": "UFC dule",
+                    "bg_pic": "http://www.wuzhenet.com/upload/images/2014/2/15103623970.JPG",
+                    "fg_pic": "http://www.scopemma.com/uploads/allimg/140415/2112523413-0.jpg",
+                    "templates": [
+                        {
+                            "id": "template001",
+                            "description": "FC bacelona-Real Madrid",
+                            "bg_pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6-2vvL2sK7S9O9JnTMm7ICc_cOp1Z035h4L1RGAH7vPhY_j3yWLl29c",
+                            "topic": {
+                                "id": "topic003"
+                            },
+                            "program": {
+                                "id": "program001",
+                                "channel_icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
+                            },
+                            "cost": {
+                                "creator_min_cost": 200,
+                                "competitor_min_cost": 100,
+                                "competitor_max_cost": 1000
+                            },
+                            "deadline": {
+                                "accept": 1460721600000
+                            },
+                            "answers": [
+                                {
+                                    "id": "answers001",
+                                    "name": "answers001 name",
+                                    "description": "bacelona",
+                                    "icon": "http://img.sj33.cn/uploads/allimg/201402/7-140203003000D1.png",
+                                    "is_correct": false
+                                },
+                                {
+                                    "id": "answers002",
+                                    "name": "answers002 name",
+                                    "description": "Real Madrid",
+                                    "icon": "http://imgsrc.baidu.com/forum/w%3D580/sign=b621e260f603918fd7d13dc2613c264b/87c7ccbf6c81800accde3c8eb03533fa838b4792.jpg",
+                                    "is_correct": false
+                                }
+                            ]
+                        },
+                        {
+                            "id": "template003",
+                            "description": "FC Doraemon-Shrek",
+                            "bg_pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6-2vvL2sK7S9O9JnTMm7ICc_cOp1Z035h4L1RGAH7vPhY_j3yWLl29c",
+                            "topic": {
+                                "id": "topic003"
+                            },
+                            "program": {
+                                "id": "program001",
+                                "channel_icon": "http://a.hiphotos.baidu.com/baike/w%3D268/sign=4d931b964510b912bfc1f1f8fbfcfcb5/d01373f082025aaf248d22e6f9edab64024f78f0f7362263.jpg"
+                            },
+                            "cost": {
+                                "creator_min_cost": 200,
+                                "competitor_min_cost": 100,
+                                "competitor_max_cost": 1000
+                            },
+                            "deadline": {
+                                "accept": 1460410200000
+                            },
+                            "answers": [
+                                {
+                                    "id": "answers005",
+                                    "name": "answers005 name",
+                                    "description": "which one save the world?",
+                                    "icon": "http://img2.imgtn.bdimg.com/it/u=2010627779,4174708471&fm=206&gp=0.jpg",
+                                    "is_correct": false
+                                },
+                                {
+                                    "id": "answers006",
+                                    "name": "answers006 name",
+                                    "description": "which one save the world?",
+                                    "icon": "http://p6.qhimg.com/dmsmty/350_200_/t01c5e729936f2f3f05.jpg",
+                                    "is_correct": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

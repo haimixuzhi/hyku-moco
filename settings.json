@@ -1,0 +1,36 @@
+[{
+	"context": "/v1/dules",
+	"include": "createDuleInstance.json"
+},
+{
+	"context": "/v1/dules",
+	"include": "instancesList.json"
+},
+{
+	"context": "/v1/dules",
+	"include": "changeDuleInstanceStatus.json"
+},
+{
+	"context": "/v1/scores/users",
+	"include": "scoreOfUserName.json"
+},
+{
+	"context": "/v1/dules",
+	"include": "getTopics.json"
+},
+{
+	"context": "/v1/dules/users",
+	"include": "myGame.json"
+},
+{
+	"context": "/v1/dules/users",
+	"include":"myGameHistory.json"
+},
+{
+	"context": "/v1/scores/users",
+	"include": "topboardOfPoints.json"
+},
+{
+	"context": "/v1/dules/users",
+	"include": "duleHistoryInScores.json"
+}]

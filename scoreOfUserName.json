@@ -1,0 +1,14 @@
+[{
+	"request": {
+		"uri": {
+			"match": "/\\w*"
+		},
+		"method": "GET"
+	},
+	"response": {
+		"json": {
+			"total": 1000,
+			"earn_daily": 200
+		}
+	}
+}]

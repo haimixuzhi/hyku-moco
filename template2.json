@@ -1,0 +1,41 @@
+[{
+	"response": {
+		"json": {
+			"id": "template002",
+			"description": "FC CN-USA",
+			"bg_pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv6-2vvL2sK7S9O9JnTMm7ICc_cOp1Z035h4L1RGAH7vPhY_j3yWLl29c",
+			"topic": {
+				"id": "topic002"
+			},
+			"program": {
+				"id": "program001",
+				"channel_icon": "http://c.hiphotos.baidu.com/baike/w%3D268/sign=0e0258fb5ddf8db1bc2e7b623122dddb/c83d70cf3bc79f3daabebd53b9a1cd11728b2971.jpg"
+				
+			},
+			"cost": {
+				"creator_min_cost": 200,
+				"competitor_min_cost": 100,
+				"competitor_max_cost": 1000
+			},
+			"deadline": {
+				"accept": 1460752200000
+				
+			},
+			"answers": [{
+				"id": "answers003",
+				"name": "answers003 name",
+				"description": "china win",
+				"icon": "http://img2.imgtn.bdimg.com/it/u=2166183927,1202308577&fm=21&gp=0.jpg",
+				"is_correct": false
+			},
+			{
+				"id": "answers004",
+				"name": "answers004 name",
+				"description": "America win",
+				"icon": "http://img0.imgtn.bdimg.com/it/u=920414478,1960057218&fm=21&gp=0.jpg",
+				"is_correct": false
+			}]
+			
+		}
+	}
+}]

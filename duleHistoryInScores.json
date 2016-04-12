@@ -1,0 +1,14 @@
+[{
+	"request": {
+		"uri": {
+			"match":"/\\w*/win"
+		},
+		"method": "GET"
+	},
+	"response": {
+		"json": {
+			"win": 10,
+			"lose": 10
+		}
+	}
+}]
