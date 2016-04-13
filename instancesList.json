@@ -13,9 +13,9 @@
 				"topic": {
 					"id": "topic001"
 				},
-				"program": {
-					"id": "program001",
-					"channel_icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
+				"channel": {
+					"id": "channel001",
+					"icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
 				},
 				"cost": {
 					"creator_min_cost": 200,
@@ -72,9 +72,9 @@
 				"topic": {
 					"id": "topic002"
 				},
-				"program": {
-					"id": "program001",
-					"channel_icon": "http://c.hiphotos.baidu.com/baike/w%3D268/sign=0e0258fb5ddf8db1bc2e7b623122dddb/c83d70cf3bc79f3daabebd53b9a1cd11728b2971.jpg"
+				"channel": {
+					"id": "channel001",
+					"icon": "http://c.hiphotos.baidu.com/baike/w%3D268/sign=0e0258fb5ddf8db1bc2e7b623122dddb/c83d70cf3bc79f3daabebd53b9a1cd11728b2971.jpg"
 				},
 				"cost": {
 					"creator_min_cost": 200,
@@ -131,9 +131,9 @@
 				"topic": {
 					"id": "topic003"
 				},
-				"program": {
-					"id": "program001",
-					"channel_icon": "http://a.hiphotos.baidu.com/baike/w%3D268/sign=4d931b964510b912bfc1f1f8fbfcfcb5/d01373f082025aaf248d22e6f9edab64024f78f0f7362263.jpg"
+				"channel": {
+					"id": "channel001",
+					"icon": "http://a.hiphotos.baidu.com/baike/w%3D268/sign=4d931b964510b912bfc1f1f8fbfcfcb5/d01373f082025aaf248d22e6f9edab64024f78f0f7362263.jpg"
 				},
 				"cost": {
 					"creator_min_cost": 200,
@@ -190,9 +190,9 @@
 				"topic": {
 					"id": "topic003"
 				},
-				"program": {
-					"id": "program001",
-					"channel_icon": "http://a.hiphotos.baidu.com/baike/w%3D268/sign=4d931b964510b912bfc1f1f8fbfcfcb5/d01373f082025aaf248d22e6f9edab64024f78f0f7362263.jpg"
+				"channel": {
+					"id": "channel001",
+					"icon": "http://a.hiphotos.baidu.com/baike/w%3D268/sign=4d931b964510b912bfc1f1f8fbfcfcb5/d01373f082025aaf248d22e6f9edab64024f78f0f7362263.jpg"
 				},
 				"cost": {
 					"creator_min_cost": 200,
@@ -249,9 +249,9 @@
 				"topic": {
 					"id": "topic001"
 				},
-				"program": {
-					"id": "program001",
-					"channel_icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
+				"channel": {
+					"id": "channel001",
+					"icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
 				},
 				"cost": {
 					"creator_min_cost": 200,

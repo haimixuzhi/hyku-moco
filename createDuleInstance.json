@@ -13,9 +13,9 @@
 				"topic": {
 					"id": "topic001"
 				},
-				"program": {
+				"channel": {
 					"id": "program001",
-					"channel_icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
+					"icon": "http://p1.so.qhimg.com/bdr/_240_/t019964bc76e5cd9b01.jpg"
 				},
 				"cost": {
 					"creator_min_cost": 200,
