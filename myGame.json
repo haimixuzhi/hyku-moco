@@ -7,7 +7,7 @@
 	},
 	"response": {
 		"json": {
-			"instance": [{
+			"instances": [{
 				"id": "instance1",
 				"template": {
 					"id": "template001",
