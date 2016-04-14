@@ -1,29 +1,29 @@
 [{
-	"context": "/v1/dules",
-	"include": "createDuleInstance.json"
+	"context": "/v1/duels",
+	"include": "createduelInstance.json"
 },
 {
-	"context": "/v1/dules",
+	"context": "/v1/duels",
 	"include": "instancesList.json"
 },
 {
-	"context": "/v1/dules",
-	"include": "changeDuleInstanceStatus.json"
+	"context": "/v1/duels",
+	"include": "changeduelInstanceStatus.json"
 },
 {
 	"context": "/v1/scores/users",
 	"include": "scoreOfUserName.json"
 },
 {
-	"context": "/v1/dules",
+	"context": "/v1/duels",
 	"include": "getTopics.json"
 },
 {
-	"context": "/v1/dules/users",
+	"context": "/v1/duels/users",
 	"include": "myGame.json"
 },
 {
-	"context": "/v1/dules/users",
+	"context": "/v1/duels/users",
 	"include":"myGameHistory.json"
 },
 {
@@ -31,6 +31,6 @@
 	"include": "topboardOfPoints.json"
 },
 {
-	"context": "/v1/dules/users",
-	"include": "duleHistoryInScores.json"
+	"context": "/v1/duels/users",
+	"include": "duelHistoryInScores.json"
 }]
