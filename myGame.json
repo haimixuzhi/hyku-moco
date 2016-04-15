@@ -46,7 +46,7 @@
 				"text": "Basel beat Roma",
 				"fg_pic": "http://pic.58pic.com/58pic/13/80/58/79j58PICBT6_1024.jpg",
 				"creator": {
-					"username": "zzzz",
+					"username": "id9742833418",
 					"cost": 200,
 					"answer": {
 						"id": "answers001"
@@ -62,9 +62,9 @@
 				"created_time": 1462759200000,
 				"accepted_time": 1462762800000,
 				"correct_answer": {
-					"id": "answers002"
+					"id": "answers001"
 				},
-				"status": 2
+				"status": 3
 			},
 			{
 				"id": "instance2",
