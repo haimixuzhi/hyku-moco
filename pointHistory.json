@@ -1,0 +1,17 @@
+[{
+ "request": {
+ "uri":"/history",
+ "method": "GET"
+ },
+ "response": {
+ "json": {
+ "data":[
+          {"timestamp":1460721600000,"task_id":"duel",  "points":3000,"description":"xxafahfjajhjdfkahjfhaskjd"},
+          {"timestamp":1460721600000,"task_id":"program",   "points":2000,"description":"xxafahfjajhjdfkahjfhaskjd"},
+          {"timestamp":1460721600000,"task_id":"user",  "points":2000,"description":"xxafahfjajhjdfkahjfhaskjd"},
+          {"timestamp":1460721600000,"task_id":"duel",  "points":-1000,"description":"xxafahfjajhjdfkahjfhaskjd"}
+         ],
+ "more": true
+ }
+ }
+ }]
