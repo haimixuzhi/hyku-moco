@@ -33,4 +33,16 @@
   {
   "context": "/v1/points",
   "include": "pointHistory.json"
+  },
+  {
+  "context": "/v1/ugcs",
+  "include": "ugcPostsList.json"
+  },
+  {
+  "context": "/v1/ugcs",
+  "include": "likePost.json"
+  },
+  {
+  "context": "/v1/ugcs",
+  "include": "unlikePost.json"
   }  ]

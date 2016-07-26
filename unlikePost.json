@@ -1,0 +1,12 @@
+[{
+	"request": {
+		"uri": "/posts/unlike",
+		"method": "GET"
+	},
+	"response": {
+		"json": {
+			"post_id": "instance001",
+			"like": 9526
+		}
+	}
+}]

@@ -1,0 +1,143 @@
+[{
+	"request": {
+		"uri": "/posts",
+		"method": "GET"
+	},
+	"response": {
+		"json": [{
+			"post_id": "instance001",
+			"content": "uvbiunotyvubijnokmlmnbvcxtrcytvuybiunoibiuyvtctrxtcyvuybiunoiubivyutcyrxcfygvuhbijvuyc",
+			"resources": [{
+		        "url": "http://hbimg.b0.upaiyun.com/0d08f172cda82c613511ef3de1b24563bee0ec6487868-SVDtAq_fw658",
+		        "type": "image",
+		        "meta": {
+		          "width": 658, 
+		          "height": 439
+		        }
+			}],
+			"tags": [{
+				"id": "tag001",
+				"name": "game of thrones"
+			}],
+			"created_time": 1469077320582000,
+			"author": {
+      			"nick": "coloryear(微博用户)",
+      			"username": "2347952380",
+      			"profile_image": "http://tp2.sinaimg.cn/3007543373/50/40004119168/1"
+      		},
+      		"like": 9098,
+      		"liked": false,
+      		"reply": 9089,
+      		"detail_url": "http://www.baidu.com",
+      		"share_url": "http://www.baidu.com"
+		},
+		{
+			"post_id": "instance002",
+			"content": "uvbiunotyvubijnokmlmnbvcxtrcytvuybiunoibiuyvtctrxtcyvuybiunoiubivyutcyrxcfygvuhbijvuyc",
+			"resources": [{
+		        "url": "http://hbimg.b0.upaiyun.com/b7b9bc8c385c3bb5b2ff201300d3e495bcfe51f3198a8e-If2bVo_fw658",
+		        "type": "image",
+		        "meta": {
+		          "width": 658, 
+		          "height": 439
+		        }
+			}],
+			"tags": [{
+				"id": "tag001",
+				"name": "game of thrones"
+			}],
+			"created_time": 1469077320582000,
+			"author": {
+      			"nick": "xuzhi",
+      			"username": "user001",
+      			"profile_image": "http://hbimg.b0.upaiyun.com/912a2c62f2d84a61b6162dc94da59dc9ebd20f051fde4-5GM0v1_fw658"
+      		},
+      		"like": 9098,
+      		"liked": false,
+      		"reply": 9089,
+      		"detail_url": "http://www.baidu.com",
+      		"share_url": "http://www.baidu.com"
+		},
+		{
+			"post_id": "instance003",
+			"content": "uvbiunotyvubijnokmlmnbvcxtrcytvuybiunoibiuyvtctrxtcyvuybiunoiubivyutcyrxcfygvuhbijvuyc",
+			"resources": [{
+		        "url": "http://hbimg.b0.upaiyun.com/d46dc542b3d6ff99045e453ab8064f8d9d7fe7742fa05-zWPhQc_fw658",
+		        "type": "image",
+		        "meta": {
+		          "width": 563, 
+		          "height": 923
+		        }
+			}],
+			"tags": [{
+				"id": "tag001",
+				"name": "game of thrones"
+			}],
+			"created_time": 1469077320582000,
+			"author": {
+      			"nick": "xuzhi",
+      			"username": "user001",
+      			"profile_image": "http://hbimg.b0.upaiyun.com/912a2c62f2d84a61b6162dc94da59dc9ebd20f051fde4-5GM0v1_fw658"
+      		},
+      		"like": 9098,
+      		"liked": true,
+      		"reply": 9089,
+      		"detail_url": "http://www.baidu.com",
+      		"share_url": "http://www.baidu.com"
+		},
+		{
+			"post_id": "instance004",
+			"content": "uvbiunotyvubijnokmlmnbvcxtrcytvuybiunoibiuyvtctrxtcyvuybiunoiubivyutcyrxcfygvuhbijvuyc",
+			"resources": [{
+		        "url": "http://hbimg.b0.upaiyun.com/b7b9bc8c385c3bb5b2ff201300d3e495bcfe51f3198a8e-If2bVo_fw658",
+		        "type": "image",
+		        "meta": {
+		          "width": 658, 
+		          "height": 439
+		        }
+			}],
+			"tags": [{
+				"id": "tag001",
+				"name": "game of thrones"
+			}],
+			"created_time": 1469077320582000,
+			"author": {
+      			"nick": "xuzhi",
+      			"username": "user001",
+      			"profile_image": "http://hbimg.b0.upaiyun.com/912a2c62f2d84a61b6162dc94da59dc9ebd20f051fde4-5GM0v1_fw658"
+      		},
+      		"like": 9098,
+      		"liked": false,
+      		"reply": 9089,
+      		"detail_url": "http://www.baidu.com",
+      		"share_url": "http://www.baidu.com"
+		},
+		{
+			"post_id": "instance005",
+			"content": "uvbiunotyvubijnokmlmnbvcxtrcytvuybiunoibiuyvtctrxtcyvuybiunoiubivyutcyrxcfygvuhbijvuyc",
+			"resources": [{
+		        "url": "http://hbimg.b0.upaiyun.com/55adf8d06d223bd5fae712e1631439ea6abdf7a0ef72-FztAET_fw658",
+		        "type": "image",
+		        "meta": {
+		          "width": 455, 
+		          "height": 682
+		        }
+			}],
+			"tags": [{
+				"id": "tag001",
+				"name": "game of thrones"
+			}],
+			"created_time": 1469077320582000,
+			"author": {
+      			"nick": "xuzhi",
+      			"username": "user001",
+      			"profile_image": "http://hbimg.b0.upaiyun.com/912a2c62f2d84a61b6162dc94da59dc9ebd20f051fde4-5GM0v1_fw658"
+      		},
+      		"like": 9098,
+      		"liked": true,
+      		"reply": 9089,
+      		"detail_url": "http://www.baidu.com",
+      		"share_url": "http://www.baidu.com"
+		}]
+	}
+}]
