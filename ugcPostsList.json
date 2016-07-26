@@ -60,7 +60,7 @@
 		},
 		{
 			"post_id": "instance003",
-			"content": "uvbiunotyvubijnokmlmnbvcxtrcytvuybiunoibiuyvtctrxtcyvuybiunoiubivyutcyrxcfygvuhbijvuyc",
+			"content": "",
 			"resources": [{
 		        "url": "http://hbimg.b0.upaiyun.com/d46dc542b3d6ff99045e453ab8064f8d9d7fe7742fa05-zWPhQc_fw658",
 		        "type": "image",
@@ -69,10 +69,7 @@
 		          "height": 923
 		        }
 			}],
-			"tags": [{
-				"id": "tag001",
-				"name": "game of thrones"
-			}],
+			"tags": [],
 			"created_time": 1469077320582000,
 			"author": {
       			"nick": "xuzhi",
@@ -87,7 +84,7 @@
 		},
 		{
 			"post_id": "instance004",
-			"content": "uvbiunotyvubijnokmlmnbvcxtrcytvuybiunoibiuyvtctrxtcyvuybiunoiubivyutcyrxcfygvuhbijvuyc",
+			"content": "",
 			"resources": [{
 		        "url": "http://hbimg.b0.upaiyun.com/b7b9bc8c385c3bb5b2ff201300d3e495bcfe51f3198a8e-If2bVo_fw658",
 		        "type": "image",
@@ -123,10 +120,7 @@
 		          "height": 682
 		        }
 			}],
-			"tags": [{
-				"id": "tag001",
-				"name": "game of thrones"
-			}],
+			"tags": [],
 			"created_time": 1469077320582000,
 			"author": {
       			"nick": "xuzhi",
