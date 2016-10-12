@@ -45,4 +45,8 @@
   {
   "context": "/v1/ugcs",
   "include": "unlikePost.json"
+  },
+  {
+  "context": "/v1/tags",
+  "include": "hotUGCTags.json"
   }  ]

@@ -1,0 +1,60 @@
+[{
+	"request": {
+		"uri": "/hot",
+		"method": "GET"
+	},
+	"response": {
+		"json": [
+			{
+			"id": "tag001",
+			"name": "权力的游戏",
+			"post_count": 41231312
+			},
+			{
+			"id": "tag002",
+			"name": "路边野餐",
+			"post_count": 14314324
+			},
+			{
+			"id": "tag003",
+			"name": "追忆的年华",
+			"post_count": 14324
+			},
+			{
+			"id": "tag004",
+			"name": "彗星来临",
+			"post_count": 546345
+			},
+			{
+			"id": "tag005",
+			"name": "大鱼海棠",
+			"post_count": 4234234
+			},
+			{
+			"id": "tag006",
+			"name": "中国",
+			"post_count": 324231432
+			},
+			{
+			"id": "tag007",
+			"name": "Hyku",
+			"post_count": 53254352
+			},
+			{
+			"id": "tag008",
+			"name": "笑话",
+			"post_count": 432534
+			},
+			{
+			"id": "tag009",
+			"name": "美女",
+			"post_count": 565436
+			},
+			{
+			"id": "tag010",
+			"name": "房产",
+			"post_count": 8769789
+			}
+		]
+	}
+}]
