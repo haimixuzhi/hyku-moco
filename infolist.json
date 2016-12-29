@@ -1,0 +1,78 @@
+[{
+	"request": {
+		"uri": "/infos",
+		"method": "GET"
+	},
+	"response": {
+		"json": [{
+			"name": "已参与-等待答案揭晓",
+			"detail": {
+				"type": "timingGuess",
+				"detailUrl": "https://cdn-cn.hyku.org/assets/content/infos/info-detail.html?info_id=5861cdbf0e24016a9bc7eabe&host=https://api-cn.hyku.org/v1&current=detail"
+			},
+			"share": {
+				"content": "share_text:已参与-等待答案揭晓",
+				"image": "https://cdn-cn.hyku.org/ugc/content/infos/5861cdbf0e24016a9bc7eabe/share_image_1482804672.jpg",
+				"linkUrl": "https://cdn-cn.hyku.org/assets/content/infos/info-detail.html?info_id=5861cdbf0e24016a9bc7eabe&host=https://api-cn.hyku.org/v1&current=share",
+				"title": "share_title:已参与-等待答案揭晓"
+			},
+			"episodeId": "5861cdaf0e24016a9bc7eaba",
+			"brief": {
+				"end_announce_selected_url": "https://cdn-cn.hyku.org/assets/content/infos/guess/guess_normal_bg.png",
+				"over_selected_wrong_url": "https://cdn-cn.hyku.org/assets/content/infos/guess/guess_wrong_bg.png",
+				"start_announce_unselected_url": "https://cdn-cn.hyku.org/assets/content/infos/guess/guess_disable_bg.png",
+				"guess_endtime": 1482804694606,
+				"guess_url": "https://cdn-cn.hyku.org/assets/content/infos/guess/guess_normal_bg.png",
+				"over_selected_right_url": "https://cdn-cn.hyku.org/assets/content/infos/guess/guess_right_bg.png",
+				"title": "已参与-等待答案揭晓",
+				"over_unselected_url": "https://cdn-cn.hyku.org/assets/content/infos/guess/guess_disable_bg.png",
+				"start_announce_selected_url": "https://cdn-cn.hyku.org/assets/content/infos/guess/guess_normal_bg.png",
+				"end_announce_unselected_url": "https://cdn-cn.hyku.org/assets/content/infos/guess/guess_disable_bg.png",
+				"announce_endtime": 1482840694606,
+				"type": "timingGuess"
+			},
+			"points": 100,
+			"time": null,
+			"id": "5861cdbf0e24016a9bc7eabe",
+			"landscape": {
+				"detail_url": "https://cdn-cn.hyku.org/assets/content/infos/info-detail.html?info_id=5861cdbf0e24016a9bc7eabe&host=https://api-cn.hyku.org/v1&current=detail",
+				"floating_duration": 10000,
+				"detail_content": "TODO"
+			}
+		},
+		{
+			"name": "购物",
+			"detail": {
+				"type": "product",
+				"detailUrl": "https://cdn-id.hyku.com/assets/content/infos/info-detail.html?info_id=585799a578299f40c6248578&host=https://api-id.hyku.com/v1&current=detail"
+			},
+			"share": {
+				"content": "Profil pemain Ramadhani Muhammad Zulkifli",
+				"image": "https://cdn-id.hyku.com/ugc/content/infos/585799a578299f40c6248578/share_image_1482136419.jpg",
+				"linkUrl": "https://cdn-id.hyku.com/assets/content/infos/info-detail.html?info_id=585799a578299f40c6248578&host=https://api-id.hyku.com/v1&current=share",
+				"title": "Profil pemain Ramadhani Muhammad Zulkifli"
+			},
+			"episodeId": "5857822d78299f40c6248546",
+			"brief": {
+				"image": "https://cdn-id.hyku.com/ugc/content/infos/585799a578299f40c6248578/standard/image_1482136431.jpg",
+				"type": "product",
+				"title": "这是个商品",
+				"product_id": "product0001",
+				"status": "off", 
+			    "inventory": 100,
+				"price": {
+					"number": 12345,
+					"currency": "IDR"
+				}
+			},
+			"points": 0,
+			"time": 607000,
+			"id": "585799a578299f40c6248578",
+			"landscape": {
+				"detail_url": "https://cdn-id.hyku.com/assets/content/infos/info-detail.html?info_id=585799a578299f40c6248578&host=https://api-id.hyku.com/v1&current=detail",
+				"floating_duration": 1000,
+				"detail_content": "TODO"
+			}
+		}]
+	}
+}]

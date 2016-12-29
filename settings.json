@@ -49,4 +49,12 @@
   {
   "context": "/v1/tags",
   "include": "hotUGCTags.json"
-  }  ]
+  },
+  {
+    "context": "/v1/subscribe",
+    "include": "infolist.json"
+  },
+  {
+    "context": "/v1/market",
+    "include": "payments.json"
+  }]
