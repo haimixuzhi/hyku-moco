@@ -1,0 +1,118 @@
+[{
+	"request": {
+		"uri": "/products/product",
+		"method": "GET"
+	},
+	"response": {
+		"json": {
+			"id": "product001",
+			"name": "iPhone 7",
+			"banner": [
+				"http://img.hb.aicdn.com/ec0b23a6b8b47534a8e463845501f4275afbb93539355-iZ2Pof_fw658", 
+				"http://img.hb.aicdn.com/bc9e017be9870dfa6f4cc4dc9d97ff18a3b5774ae0ad-V0s916_fw658"
+			],
+			"price": {
+				"number": 12345,
+				"currency": "IDR"
+			},
+			"abstract": "iPhone 的简要描述",
+			"detail": "http:www.baidu.com",
+			"status": "off", 
+		    "inventory": 100,
+		    "attributes": [ 
+		    	{ 
+			    	"id": "a001", 
+			    	"name": "颜色", 
+			    	"options": [
+			    		{
+			    		"id": "op001",
+			    		"option": "深空黑"
+			    		},
+			    		{
+			    		"id": "op002",
+			    		"option": "亮白"
+			    		},
+			    		{
+			    		"id": "op003",
+			    		"option": "土豪金"
+			    		},
+			    		{
+			    		"id": "op004",
+			    		"option": "粉色"
+			    		}
+		    		]
+		    	},
+		    	{ 
+			    	"id": "a002", 
+			    	"name": "尺寸", 
+			    	"options": [
+			    		{
+			    		"id": "op001",
+			    		"option": "4.5寸"
+			    		},
+			    		{
+			    		"id": "op002",
+			    		"option": "5寸"
+			    		}
+		    		]
+		    	} 
+		    ],
+		    "items": [
+		    	{
+		    		"id": "i001",
+		    		"inventory": 14,
+		    		"price": {
+						"number": 34003,
+						"currency": "IDR"
+					},
+					"attributes": [
+						{
+							"attribute_id": "a001",
+					        "option_id": "op001"
+						},
+						{
+							"attribute_id": "a002",
+					        "option_id": "op001"
+						}
+					]
+		    	},
+		    	{
+		    		"id": "i002",
+		    		"inventory": 0,
+		    		"price": {
+						"number": 34003,
+						"currency": "IDR"
+					},
+					"attributes": [
+						{
+							"attribute_id": "a001",
+					        "option_id": "op003"
+						},
+						{
+							"attribute_id": "a002",
+					        "option_id": "op002"
+						}
+					]
+		    	},
+		    	{
+		    		"id": "i002",
+		    		"inventory": 20,
+		    		"price": {
+						"number": 34003,
+						"currency": "IDR"
+					},
+					"attributes": [
+						{
+							"attribute_id": "a001",
+					        "option_id": "op004"
+						},
+						{
+							"attribute_id": "a002",
+					        "option_id": "op002"
+						}
+					]
+		    	}
+		    ]
+		}
+	}
+}]
