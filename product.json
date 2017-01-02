@@ -6,18 +6,18 @@
 	"response": {
 		"json": {
 			"id": "product001",
-			"name": "iPhone 7",
+			"name": "超级无敌 大富大贵 大红大紫 日天日地日宇宙 iPhone 7",
 			"banner": [
 				"http://img.hb.aicdn.com/ec0b23a6b8b47534a8e463845501f4275afbb93539355-iZ2Pof_fw658", 
 				"http://img.hb.aicdn.com/bc9e017be9870dfa6f4cc4dc9d97ff18a3b5774ae0ad-V0s916_fw658"
 			],
 			"price": {
-				"number": 12345,
+				"amount": 12345,
 				"currency": "IDR"
 			},
 			"abstract": "iPhone 的简要描述",
 			"detail": "http:www.baidu.com",
-			"status": "off", 
+			"status": "on", 
 		    "inventory": 100,
 		    "attributes": [ 
 		    	{ 
@@ -26,11 +26,11 @@
 			    	"options": [
 			    		{
 			    		"id": "op001",
-			    		"option": "深空黑"
+			    		"option": "无敌深邃深邃深邃深邃深邃深邃深邃深邃深空黑"
 			    		},
 			    		{
 			    		"id": "op002",
-			    		"option": "亮白"
+			    		"option": "眼睛睁不开的亮白白亮白白亮白白亮白白亮白白亮白白亮白白亮白白"
 			    		},
 			    		{
 			    		"id": "op003",
@@ -60,9 +60,9 @@
 		    "items": [
 		    	{
 		    		"id": "i001",
-		    		"inventory": 14,
+		    		"inventory": 10,
 		    		"price": {
-						"number": 34003,
+						"amount": 18003,
 						"currency": "IDR"
 					},
 					"attributes": [
@@ -78,9 +78,9 @@
 		    	},
 		    	{
 		    		"id": "i002",
-		    		"inventory": 0,
+		    		"inventory": 10,
 		    		"price": {
-						"number": 34003,
+						"amount": 34003,
 						"currency": "IDR"
 					},
 					"attributes": [
@@ -96,9 +96,9 @@
 		    	},
 		    	{
 		    		"id": "i002",
-		    		"inventory": 20,
+		    		"inventory": 30,
 		    		"price": {
-						"number": 34003,
+						"amount": 9003,
 						"currency": "IDR"
 					},
 					"attributes": [

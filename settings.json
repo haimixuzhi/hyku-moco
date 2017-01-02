@@ -61,4 +61,8 @@
   {
     "context": "/v1/market",
     "include": "product.json"
+  },
+  {
+    "context": "/v1/market",
+    "include": "submitorder.json"
   }]

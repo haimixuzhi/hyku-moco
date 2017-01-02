@@ -1,0 +1,15 @@
+[{
+	"request": {
+		"uri": "/submit/order",
+		"method": "GET"
+	},
+	"response": {
+		"json": {
+			"id" : "12345678",
+			"total_price":{
+			    "amount": 100, 
+			    "currency": "IDR"
+			}
+		}
+	}
+}]
