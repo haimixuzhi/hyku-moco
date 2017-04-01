@@ -8,12 +8,14 @@
 			{
 				"id": "nucash",
 				"text": "NU Cahs",
-				"icon": "http://img.hb.aicdn.com/4074ace7f8842e7ec5dfe2775bd0a51545253e24685bf-99uYZR_sq320"
+				"icon": "http://img.hb.aicdn.com/4074ace7f8842e7ec5dfe2775bd0a51545253e24685bf-99uYZR_sq320",
+				"enabled": true
 			},
 			{
 				"id": "nucash",
 				"text": "NU Cahs",
-				"icon": "http://img.hb.aicdn.com/4074ace7f8842e7ec5dfe2775bd0a51545253e24685bf-99uYZR_sq320"
+				"icon": "http://img.hb.aicdn.com/4074ace7f8842e7ec5dfe2775bd0a51545253e24685bf-99uYZR_sq320",
+				"enabled": false
 			}
 		]
 	}

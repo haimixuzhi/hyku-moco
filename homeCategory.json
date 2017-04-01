@@ -1,0 +1,175 @@
+[{
+	"request": {
+		"uri": "/home/category",
+		"method": "GET"
+	},
+	"response": {
+		"json": {
+			"id": "0001", 
+			"name": "精选",
+			"layout": [
+				{
+					"type": "program",
+					"more": false,
+					"items": [
+						{
+							"id": "57280a2286d2630cb988409c",
+							"name": "每周娱乐扒",
+							"intro": "扒尽热门综艺娱乐八卦事，下班路上的最佳伴侣，欢迎投稿",
+							"banner": "https://cdn-cn.hyku.com/content_draft/572c51df86d2630cb988419b.png",
+							"channel": "HYKU",
+							"channel_icon": "https://cdn-cn.hyku.com/ugc/content/channels/56fb9c9086d26335a20978dd/icon_1477291525.png",
+							"schedule": "周一 18:00",
+							"tags":[
+								{
+									"id": "001",
+									"name": "每周娱乐扒"
+								}
+							],
+							"latest_episode": {
+								"start": 1490956332000,
+								"programId": "57280a2286d2630cb988409c",
+								"closing_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/closing.zh.jpg",
+								"name": "李小璐的人生不惧任何“洪水猛兽”！",
+								"title": "李小璐的人生不惧任何“洪水猛兽”！",
+								"duration": 3600000,
+								"image": "https://cdn-cn.hyku.com/ugc/draft/0cdb95ea-032e-4da1-b0f8-c2ed7aa92e0f_1490767865.jpg",
+								"opening_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/opening.zh.jpg",
+								"id": "58db4febbb817b33e412da69",
+								"detail": "HYKU 03月29日 周三 14:10"
+							}
+						},
+						{
+							"id": "57280a2286d2630cb988409c",
+							"name": "每周娱乐扒",
+							"intro": "扒尽热门综艺娱乐八卦事，下班路上的最佳伴侣，欢迎投稿",
+							"banner": "https://cdn-cn.hyku.com/content_draft/572c51df86d2630cb988419b.png",
+							"channel": "HYKU",
+							"channel_icon": "https://cdn-cn.hyku.com/ugc/content/channels/56fb9c9086d26335a20978dd/icon_1477291525.png",
+							"schedule": "周一 18:00",
+							"tags":[
+								{
+									"id": "001",
+									"name": "每周娱乐扒"
+								}
+							],
+							"latest_episode": {
+								"start": 1490767850000,
+								"programId": "57280a2286d2630cb988409c",
+								"closing_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/closing.zh.jpg",
+								"name": "李小璐的人生不惧任何“洪水猛兽”！",
+								"title": "李小璐的人生不惧任何“洪水猛兽”！",
+								"duration": 3600000,
+								"image": "https://cdn-cn.hyku.com/ugc/draft/0cdb95ea-032e-4da1-b0f8-c2ed7aa92e0f_1490767865.jpg",
+								"opening_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/opening.zh.jpg",
+								"id": "58db4febbb817b33e412da69",
+								"detail": "HYKU 03月29日 周三 14:10"
+							}
+						},
+						{
+							"id": "57280a2286d2630cb988409c",
+							"name": "每周娱乐扒",
+							"intro": "扒尽热门综艺娱乐八卦事，下班路上的最佳伴侣，欢迎投稿",
+							"banner": "https://cdn-cn.hyku.com/content_draft/572c51df86d2630cb988419b.png",
+							"channel": "HYKU",
+							"channel_icon": "https://cdn-cn.hyku.com/ugc/content/channels/56fb9c9086d26335a20978dd/icon_1477291525.png",
+							"schedule": "周一 18:00",
+							"tags":[
+								{
+									"id": "001",
+									"name": "每周娱乐扒"
+								}
+							],
+							"latest_episode": {
+								"start": 1490767850000,
+								"programId": "57280a2286d2630cb988409c",
+								"closing_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/closing.zh.jpg",
+								"name": "李小璐的人生不惧任何“洪水猛兽”！",
+								"title": "李小璐的人生不惧任何“洪水猛兽”！",
+								"duration": 3600000,
+								"image": "https://cdn-cn.hyku.com/ugc/draft/0cdb95ea-032e-4da1-b0f8-c2ed7aa92e0f_1490767865.jpg",
+								"opening_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/opening.zh.jpg",
+								"id": "58db4febbb817b33e412da69",
+								"detail": "HYKU 03月29日 周三 14:10"
+							}
+						}
+					]
+				},
+
+
+
+				{
+					"type": "article",
+					"more": true,
+					"items": [{
+						"type": "article",
+						"id": "文章0001",
+						"title": "文章标题：春01",
+						"image": "https://img.alicdn.com/i4/921749425/TB267DKc9OI.eBjSspmXXatOVXa_!!921749425.jpg_290x290xz.jpg",
+						"tags": [{
+							"id": "tag001",
+							"name": "文章tag1"
+						}],
+						"url": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm",
+						"share": {
+							"title": "分享的名称",
+							"content": "分享的内容",
+							"image": "http://i.epochtimes.com/assets/uploads/2016/12/GettyImages-75960147-FBI-600x400.jpg",
+							"linkUrl": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm"
+						},
+						"created_time": 1490767850000,
+						"like": 10,
+						"reply": 0,
+						"liked": false,
+						"favorited": false
+					},
+					{
+						"type": "article",
+						"id": "文章0002",
+						"title": "正经科普| “瑞典轻型纸”，又次又便宜？！",
+						"image": "https://img.alicdn.com/i4/921749425/TB267DKc9OI.eBjSspmXXatOVXa_!!921749425.jpg_290x290xz.jpg",
+						"tags": [{
+							"id": "tag001",
+							"name": "文章tag1"
+						}],
+						"url": "http://www.epochtimes.com/gb/17/3/29/n8981557.htm",
+						"share": {
+							"title": "分享的名称",
+							"content": "分享的内容",
+							"image": "http://i.epochtimes.com/assets/uploads/2016/12/GettyImages-75960147-FBI-600x400.jpg",
+							"linkUrl": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm"
+						},
+						"created_time": 14290767850000,
+						"like": 10,
+						"reply": 0,
+						"liked": true,
+						"favorited": false
+					},
+					{
+						"type": "article",
+						"id": "文章0003",
+						"title": "文章标题：秋",
+						"image": "https://img.alicdn.com/i4/921749425/TB267DKc9OI.eBjSspmXXatOVXa_!!921749425.jpg_290x290xz.jpg",
+						"tags": [{
+							"id": "tag002",
+							"name": "文章tag2"
+						}],
+						"url": "http://www.epochtimes.com/gb/ncyule.htm",
+						"share": {
+							"title": "分享的名称",
+							"content": "分享的内容",
+							"image": "http://i.epochtimes.com/assets/uploads/2016/12/GettyImages-75960147-FBI-600x400.jpg",
+							"linkUrl": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm"
+						},
+						"created_time": 1490767890000,
+						"like": 0,
+						"reply": 1,
+						"liked": false,
+						"favorited": true
+					}]
+				}
+			]
+
+		}
+	}
+}]

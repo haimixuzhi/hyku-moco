@@ -1,4 +1,18 @@
- [{
+
+ [
+  {
+  "context": "/v1/xsyncs",
+  "include": "articles.json"
+  },
+  {
+  "context": "/v1/xsyncs",
+  "include": "homeCategory.json"
+  },
+  {
+  "context": "/v1/xsyncs",
+  "include": "home.json"
+  },
+  {
   "context": "/v1/duels",
   "include": "createduelInstance.json"
   },

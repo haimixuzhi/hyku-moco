@@ -1,0 +1,123 @@
+[{
+	"request": {
+		"uri": "/articles",
+		"method": "GET"
+	},
+	"response": {
+		"json": {
+			"more":true,
+			"items": [
+				{
+					"type": "article",
+					"id": "文章0001",
+					"title": "文章标题：春",
+					"image": "https://img.alicdn.com/i4/921749425/TB267DKc9OI.eBjSspmXXatOVXa_!!921749425.jpg_290x290xz.jpg",
+					"tags": [{
+						"id": "tag001",
+						"name": "文章tag1"
+					}],
+					"url": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm",
+					"share": {
+						"title": "分享的名称",
+						"content": "分享的内容",
+						"image": "http://i.epochtimes.com/assets/uploads/2016/12/GettyImages-75960147-FBI-600x400.jpg",
+						"linkUrl": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm"
+					},
+					"created_time": 1490767850000,
+					"like": 10,
+					"reply": 0,
+					"liked": false,
+					"favorited": false
+				},
+				{
+					"type": "article",
+					"id": "文章0002",
+					"title": "正经科普| “瑞典轻型纸”，又次又便宜？！",
+					"image": "https://img.alicdn.com/i4/921749425/TB267DKc9OI.eBjSspmXXatOVXa_!!921749425.jpg_290x290xz.jpg",
+					"tags": [{
+						"id": "tag001",
+						"name": "文章tag1"
+					}],
+					"url": "http://www.epochtimes.com/gb/17/3/29/n8981557.htm",
+					"share": {
+						"title": "分享的名称",
+						"content": "分享的内容",
+						"image": "http://i.epochtimes.com/assets/uploads/2016/12/GettyImages-75960147-FBI-600x400.jpg",
+						"linkUrl": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm"
+					},
+					"created_time": 14290767850000,
+					"like": 10,
+					"reply": 0,
+					"liked": true,
+					"favorited": false
+				},
+				{
+					"type": "article",
+					"id": "文章0003",
+					"title": "文章标题：秋",
+					"image": "https://img.alicdn.com/i4/921749425/TB267DKc9OI.eBjSspmXXatOVXa_!!921749425.jpg_290x290xz.jpg",
+					"tags": [{
+						"id": "tag002",
+						"name": "文章tag2"
+					}],
+					"url": "http://www.epochtimes.com/gb/ncyule.htm",
+					"share": {
+						"title": "分享的名称",
+						"content": "分享的内容",
+						"image": "http://i.epochtimes.com/assets/uploads/2016/12/GettyImages-75960147-FBI-600x400.jpg",
+						"linkUrl": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm"
+					},
+					"created_time": 1490767890000,
+					"like": 0,
+					"reply": 1,
+					"liked": false,
+					"favorited": true
+				},
+				{
+					"type": "article",
+					"id": "文章0003",
+					"title": "文章标题：秋",
+					"image": "https://img.alicdn.com/i4/921749425/TB267DKc9OI.eBjSspmXXatOVXa_!!921749425.jpg_290x290xz.jpg",
+					"tags": [{
+						"id": "tag002",
+						"name": "文章tag2"
+					}],
+					"url": "http://www.epochtimes.com/gb/ncyule.htm",
+					"share": {
+						"title": "分享的名称",
+						"content": "分享的内容",
+						"image": "http://i.epochtimes.com/assets/uploads/2016/12/GettyImages-75960147-FBI-600x400.jpg",
+						"linkUrl": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm"
+					},
+					"created_time": 1490767890000,
+					"like": 0,
+					"reply": 1,
+					"liked": false,
+					"favorited": true
+				},
+				{
+					"type": "article",
+					"id": "文章0003",
+					"title": "文章标题：秋",
+					"image": "https://img.alicdn.com/i4/921749425/TB267DKc9OI.eBjSspmXXatOVXa_!!921749425.jpg_290x290xz.jpg",
+					"tags": [{
+						"id": "tag002",
+						"name": "文章tag2"
+					}],
+					"url": "http://www.epochtimes.com/gb/ncyule.htm",
+					"share": {
+						"title": "分享的名称",
+						"content": "分享的内容",
+						"image": "http://i.epochtimes.com/assets/uploads/2016/12/GettyImages-75960147-FBI-600x400.jpg",
+						"linkUrl": "http://www.epochtimes.com/gb/17/3/30/n8981943.htm"
+					},
+					"created_time": 1490767890000,
+					"like": 0,
+					"reply": 1,
+					"liked": false,
+					"favorited": true
+				}
+			]
+		}
+	}
+}]
