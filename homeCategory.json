@@ -6,7 +6,7 @@
 	"response": {
 		"json": {
 			"id": "0001", 
-			"name": "精选",
+			"title": "精选",
 			"layout": [
 				{
 					"type": "program",
