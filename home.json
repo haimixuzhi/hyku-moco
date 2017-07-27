@@ -32,94 +32,141 @@
 			"tabs": [
 				{
 					"id": "0001", 
-					"title": "精选",
-					"layout": [
+					"title": "关注",
+					"more": false,
+					"items": [
+						{
+							"type": "episode",
+							"data": {
+								"closing_image": "https://static-cn.hyku.org/assets/content/images/episodes/closing.zh.jpg",
+								"broadcast_status": "over",
+								"name": "商品",
+								"title": "商品",
+								"image": "https://static-cn.hyku.org/ugc/draft/151fb972-5052-47ec-93c5-15a89ecd9db1_1500004275.png",
+								"detail": "hyku 07月26日 周三 15:00",
+								"start": 1501081200000,
+								"programId": "5966d54d8cb51d0ee99b8a92",
+								"duration": 3600000,
+								"opening_image": "https://static-cn.hyku.org/assets/content/images/episodes/opening.zh.jpg",
+								"id": "59683fa98cb51d38be8952f2",
+								"created_time": 0,
+								"author": {
+									"username": "cn5270711185",
+							        "nick": "songzhongji2312", 
+							        "profile_image": "https://tva3.sinaimg.cn/crop.0.0.664.664.180/005XamtZjw8f9w2ulcmp5j30ig0igwf1.jpg"
+								}
+							}
+						},
+						{
+							"type": "episode",
+							"data": {
+								"closing_image": "https://static-cn.hyku.org/assets/content/images/episodes/closing.zh.jpg",
+								"broadcast_status": "over",
+								"name": "MyEpisode 70",
+								"title": "MyEpisode 70",
+								"image": "https://static-cn.hyku.org/ugc/draft/a043fde1-b69e-433b-89d3-210c6b701365_1500275686.jpg",
+								"detail": "hyku 07月26日 周三 15:00",
+								"start": 1501081200000,
+								"streaming": {
+									"url": "https://page-cn.hyku.org/v2/app/live-stream.html?id=cqvjT1D_VHs",
+									"content": "TODO"
+								},
+								"programId": "596834358cb51d38be8952d6",
+								"duration": 3600000,
+								"opening_image": "https://static-cn.hyku.org/assets/content/images/episodes/opening.zh.jpg",
+								"id": "596c63e58cb51d25e88df5d2",
+								"created_time": 0,
+								"author": {
+									"username": "cn5270711185",
+							        "nick": "songzhongji2312", 
+							        "profile_image": "https://tva3.sinaimg.cn/crop.0.0.664.664.180/005XamtZjw8f9w2ulcmp5j30ig0igwf1.jpg"
+								}
+							}
+						},
 						{
 							"type": "program",
-							"more": false,
-							"items": [
-								{
-									"id": "57280a2286d2630cb988409c",
-									"name": "每周娱乐扒",
-									"intro": "扒尽热门综艺娱乐八卦事，下班路上的最佳伴侣，欢迎投稿",
-									"banner": "https://cdn-cn.hyku.com/content_draft/572c51df86d2630cb988419b.png",
-									"channel": "HYKU",
-									"channel_icon": "https://cdn-cn.hyku.com/ugc/content/channels/56fb9c9086d26335a20978dd/icon_1477291525.png",
-									"schedule": "周一 18:00",
-									"tags":[
-										{
-											"id": "001",
-											"name": "每周娱乐扒"
-										}
-									],
-									"latest_episode": {
-										"start": 1490956332000,
-										"programId": "57280a2286d2630cb988409c",
-										"closing_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/closing.zh.jpg",
-										"name": "李小璐的人生不惧任何“洪水猛兽”！",
-										"title": "李小璐的人生不惧任何“洪水猛兽”！",
-										"duration": 3600000,
-										"image": "https://cdn-cn.hyku.com/ugc/draft/0cdb95ea-032e-4da1-b0f8-c2ed7aa92e0f_1490767865.jpg",
-										"opening_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/opening.zh.jpg",
-										"id": "58db4febbb817b33e412da69",
-										"detail": "HYKU 03月29日 周三 14:10"
+							"data": {
+								"hidden": false, 
+								"name": "李爽的节目-无视频", 
+								"schedule": 
+								"每天 02:05", 
+								"tags": [{"id": "bc231f1e676f11e79692020cdf4ff07a", "name": "test"}], 
+								"item_type": "program", 
+								"intro": "这是节目的简介", 
+								"latest_episode": {
+									"closing_image": "https://static-cn.hyku.org/assets/content/images/episodes/closing.zh.jpg", 
+									"broadcast_status": "over", 
+									"name": "商品", 
+									"title": "商品", 
+									"image": "https://static-cn.hyku.org/ugc/draft/151fb972-5052-47ec-93c5-15a89ecd9db1_1500004275.png", 
+									"detail": "hyku 07月26日 周三 15:00", 
+									"start": 1501081200000, 
+									"programId": "5966d54d8cb51d0ee99b8a92", 
+									"duration": 3600000, 
+									"opening_image": "https://static-cn.hyku.org/assets/content/images/episodes/opening.zh.jpg", 
+									"id": "59683fa98cb51d38be8952f2",
+									"created_time": 0,
+									"author": {
+										"username": "cn5270711185",
+								        "nick": "songzhongji2312", 
+								        "profile_image": "https://tva3.sinaimg.cn/crop.0.0.664.664.180/005XamtZjw8f9w2ulcmp5j30ig0igwf1.jpg"
 									}
-								},
-								{
-									"id": "57280a2286d2630cb988409c",
-									"name": "每周娱乐扒",
-									"intro": "扒尽热门综艺娱乐八卦事，下班路上的最佳伴侣，欢迎投稿",
-									"banner": "https://cdn-cn.hyku.com/content_draft/572c51df86d2630cb988419b.png",
-									"channel": "HYKU",
-									"channel_icon": "https://cdn-cn.hyku.com/ugc/content/channels/56fb9c9086d26335a20978dd/icon_1477291525.png",
-									"schedule": "周一 18:00",
-									"tags":[
-										{
-											"id": "001",
-											"name": "每周娱乐扒"
-										}
-									],
-									"latest_episode": {
-										"start": 1490767850000,
-										"programId": "57280a2286d2630cb988409c",
-										"closing_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/closing.zh.jpg",
-										"name": "李小璐的人生不惧任何“洪水猛兽”！",
-										"title": "李小璐的人生不惧任何“洪水猛兽”！",
-										"duration": 3600000,
-										"image": "https://cdn-cn.hyku.com/ugc/draft/0cdb95ea-032e-4da1-b0f8-c2ed7aa92e0f_1490767865.jpg",
-										"opening_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/opening.zh.jpg",
-										"id": "58db4febbb817b33e412da69",
-										"detail": "HYKU 03月29日 周三 14:10"
-									}
-								},
-								{
-									"id": "57280a2286d2630cb988409c",
-									"name": "每周娱乐扒",
-									"intro": "扒尽热门综艺娱乐八卦事，下班路上的最佳伴侣，欢迎投稿",
-									"banner": "https://cdn-cn.hyku.com/content_draft/572c51df86d2630cb988419b.png",
-									"channel": "HYKU",
-									"channel_icon": "https://cdn-cn.hyku.com/ugc/content/channels/56fb9c9086d26335a20978dd/icon_1477291525.png",
-									"schedule": "周一 18:00",
-									"tags":[
-										{
-											"id": "001",
-											"name": "每周娱乐扒"
-										}
-									],
-									"latest_episode": {
-										"start": 1490767850000,
-										"programId": "57280a2286d2630cb988409c",
-										"closing_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/closing.zh.jpg",
-										"name": "李小璐的人生不惧任何“洪水猛兽”！",
-										"title": "李小璐的人生不惧任何“洪水猛兽”！",
-										"duration": 3600000,
-										"image": "https://cdn-cn.hyku.com/ugc/draft/0cdb95ea-032e-4da1-b0f8-c2ed7aa92e0f_1490767865.jpg",
-										"opening_image": "https://cdn-cn.hyku.com/assets/content/images/episodes/opening.zh.jpg",
-										"id": "58db4febbb817b33e412da69",
-										"detail": "HYKU 03月29日 周三 14:10"
-									}
-								}
-							]
+								}, 
+								"channel_icon": "https://static-cn.hyku.org/ugc/draft/2a4fd628-e6ce-4fb1-961c-1960d10c9302_1499911489.jpg", 
+								"banner": "https://static-cn.hyku.org/ugc/draft/dcda935d-2a4d-43b2-903b-4ba71408070d_1499911524.jpg", 
+								"id": "5966d54d8cb51d0ee99b8a92", 
+								"channel": "hyku"
+
+							}
+
+						},
+						{
+							"type": "article",
+							"data": {
+								"favorited": false, 
+								"liked": false, 
+								"like": 0, 
+								"tags": [{"id": "a904c118687711e7a7be020cdf4ff07a", "name": "1"}, 
+										{"id": "a904c2d0687711e7a7be020cdf4ff07a", "name": "很多tag，这里！"}, 
+										{"id": "b3d1eefc686011e79dde020cdf4ff07a", "name": "滕的文章"}], 
+								"url": "https://page-cn.hyku.org/v2/app/article/167c901d42a14b5cafafa68b94f2b650.html", 
+								"image": "https://static-cn.hyku.org/ugc/draft/8cf385b2-acb5-4c01-8cd8-36e64375a4d2_1500014858.jpg", 
+								"title": "滕的文章", 
+								"share": {"content": "滕的文章", 
+									"image": "https://static-cn.hyku.org/ugc/draft/8dbb0289-489f-4eb3-bedd-f5f9d950d57b_1500014852.jpg", 
+									"linkUrl": "https://page-cn.hyku.org/v2/app/article-share/167c901d42a14b5cafafa68b94f2b650.html", 
+									"title": "滕的文章"
+								}, 
+								"item_type": "article", 
+								"created_time": 1500015267000, 
+								"reply": 0, 
+								"hidden": false, 
+								"id": "167c901d42a14b5cafafa68b94f2b650"
+							}
+						},
+						{
+							"type": "article",
+							"data": {
+								"favorited": false, 
+								"liked": false, 
+								"like": 0, 
+								"tags": [{"id": "a904c118687711e7a7be020cdf4ff07a", "name": "1"}, 
+										{"id": "a904c2d0687711e7a7be020cdf4ff07a", "name": "很多tag，这里！"}, 
+										{"id": "b3d1eefc686011e79dde020cdf4ff07a", "name": "滕的文章"}], 
+								"url": "https://page-cn.hyku.org/v2/app/article/167c901d42a14b5cafafa68b94f2b650.html", 
+								"image": "https://static-cn.hyku.org/ugc/draft/8cf385b2-acb5-4c01-8cd8-36e64375a4d2_1500014858.jpg", 
+								"title": "滕的文章", 
+								"share": {"content": "滕的文章", 
+									"image": "https://static-cn.hyku.org/ugc/draft/8dbb0289-489f-4eb3-bedd-f5f9d950d57b_1500014852.jpg", 
+									"linkUrl": "https://page-cn.hyku.org/v2/app/article-share/167c901d42a14b5cafafa68b94f2b650.html", 
+									"title": "滕的文章"
+								}, 
+								"item_type": "article", 
+								"created_time": 1500015267000, 
+								"reply": 0, 
+								"hidden": false, 
+								"id": "167c901d42a14b5cafafa68b94f2b650"
+							}
 						}
 					]
 				},
